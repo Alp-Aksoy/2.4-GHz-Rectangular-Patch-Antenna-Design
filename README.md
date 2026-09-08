@@ -12,7 +12,7 @@ The antenna is designed using an inset feed mechanism matched to a 50-ohm SMA co
 * **Substrate Thickness:** 1.6 mm
 
 **1. HFSS Antenna Model**  
-![HFSS Antenna Model](Antenna Model HFSS.jpeg)
+![HFSS Antenna Model](Antenna%20Model%20HFSS.jpeg)
 
 ## Simulation vs. Physical Measurement
 
