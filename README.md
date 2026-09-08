@@ -51,7 +51,7 @@ The physical prototype was manufactured at home.
 * **Connector:** Edge-mounted female SMA connector soldered directly to the feed line and ground plane.
 
 **6. Physical Prototype / VNA Measurement Setup**
-![Photo of DIY Antenna on VNA](VNA_Measurement.jpeg)
+![Photo of DIY Antenna](DIY_Antenna.jpeg)
 
 ## Repository Contents
 
